@@ -1,0 +1,63 @@
+
+
+                                    Core Java
+
+JVM performance optimization, Part 1: A JVM technology primer
+
+JVM technology evangelist Eva Andreasson gives an overview of the Java virtual machine, including the pros and cons of Java's write-once, run-anywhere engine, garbage collection basics, and a sampling of common GC algorithms and compiler optimizations.
+Eva Andreasson, August 2012
+
+Oracle has been good to Java, despite early fears
+IDC's report card says Oracle's stewardship has been good for the popular development platform.
+Paul Krill, August 2012
+
+Oracle updates Java, JavaFX for OS X, ARM, and Linux
+Standard edition of Java will run on Mac OS X, two versions of ARM processor; JavaFX gains Linux and multitouch capabilities.
+Paul Krill, August 2012
+
+Oracle gives Java 6 support another extension
+Developers now have until next February to migrate from Java 6 to the Java 7 upgrade
+Paul Krill, August 2012
+
+Java vulnerabilities increasingly targeted by attackers, researchers say
+Java has leapfrogged Flash and Adobe Reader as the target of choice for Web exploit toolkit developers.
+Lucian Constantin, July 2012
+
+Project Jigsaw delayed until Java 9
+Oracle exec says Project Jigsaw technology has been deferred until 2015 with release of Java SE 9.
+Paul Krill, July 2012
+
+The full Java life: Interview with William Weiss at Zappos.com
+Zappos developer William Weiss talks to Matthew Heusser about passion, determination, and how he came to 'live the dream' as a career programmer with no interest in moving into management.
+Matthew Heusser, July 2012
+
+Oracle keeps hope alive for JavaFX, Java on iOS
+Upcoming JavaOne technical conference also will focus on enterprise Java and the Java Virtual Machine.
+Paul Krill, July 2012
+
+Welcome to the programming language explosion
+The days of Java and .Net dominance are over. Let a thousand languages bloom and cross-pollinate.
+Andrew Oliver, July 2012
+
+JavaFX evangelism: Why developers should have faith
+As Flash and Silverlight RIAs fade, Oracle's plan to remake JavaFX as a Java library environment could actually work.
+Paul Krill, July 2012
+
+Functional programming: A step backward
+Functional programming languages will have a place in general application development when we can read their code at a glance.
+Andrew Oliver, July 2012
+
+The long death of fat clients
+Web development and open standards have triumphed, and JavaFX is but a last gasp, says Oliver.
+Andrew Oliver, June 2012
+
+Modern threading: A Java concurrency primer
+Cameron Laird hits some of the high (and low) points of threads as a concurrent programming technique. Get an overview of what's perennially challenging about multithreaded programming and find out how the Java platform has evolved to meet some of the challenges.
+Cameron Laird, June 2012
+
+QCon: Application development faces seismic shift
+Java overtook C++ in popularity because it was better suited for the Web, and today we are moving from that server-side architecture to "thin server architecture," according to Oracle Vice President of Development Cameron Purdy. He attributes this shift to a combination of cloud computing, HTML5, and mobile devices.
+Joab Jackson, June 2012
+
+JW Archives: How the Java virtual machine performs thread synchronization
+All Java programs are compiled into class files that contain bytecodes, the machine language of the Java virtual machine. In this JavaWorld classic, Bill Venners goes under the hood of the JVM to explain the mechanics of thread synchronization, including shared data, locks, monitors, and synchronized. Like many JW Archives, this article is as relevant for students of JVM internals today as it was when it was first published in July 1997.
